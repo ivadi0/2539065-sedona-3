@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Дмитрий Иващенко](https://up.htmlacademy.ru/htmlcss-individual/3/user/2539065).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Козюков](https://htmlacademy.ru/profile/id1119885).
 
 ---
 
